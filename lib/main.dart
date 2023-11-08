@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Metin Dosyası Okuma'),
+        title: Text('Metin Dosyası Okuma First Commit'),
       ),
       body: Center(
         child: Padding(
